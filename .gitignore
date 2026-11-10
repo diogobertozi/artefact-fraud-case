@@ -1,0 +1,8 @@
+*.csv
+*.zip
+*.pdf
+_build/
+submission/
+.ipynb_checkpoints/
+.venv/
+__pycache__/
